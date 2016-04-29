@@ -1,0 +1,46 @@
+{
+  "ast": {
+    "and": [
+      "* ",
+      "y ",
+      "ya "
+    ],
+    "background": [
+      "antecedentes"
+    ],
+    "but": [
+      "* ",
+      "pero "
+    ],
+    "examples": [
+      "exemplos"
+    ],
+    "feature": [
+      "carauterística"
+    ],
+    "given": [
+      "* ",
+      "dáu ",
+      "dada ",
+      "dao ",
+      "daos ",
+      "daes "
+    ],
+    "name": "asturian",
+    "native": "asturianu",
+    "scenario": [
+      "casu"
+    ],
+    "scenariooutline": [
+      "esbozu del casu"
+    ],
+    "then": [
+      "* ",
+      "entós "
+    ],
+    "when": [
+      "* ",
+      "cuando "
+    ]
+  }
+}
