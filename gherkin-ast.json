@@ -2,45 +2,44 @@
   "ast": {
     "and": [
       "* ",
-      "y ",
-      "ya "
+      "Y ",
+      "Ya "
     ],
     "background": [
-      "antecedentes"
+      "Antecedentes"
     ],
     "but": [
       "* ",
-      "pero "
+      "Peru "
     ],
     "examples": [
-      "exemplos"
+      "Exemplos"
     ],
     "feature": [
-      "carauterística"
+      "Carauterística"
     ],
     "given": [
       "* ",
-      "dáu ",
-      "dada ",
-      "dao ",
-      "daos ",
-      "daes "
+      "Dáu ",
+      "Dada ",
+      "Daos ",
+      "Daes "
     ],
-    "name": "asturian",
+    "name": "Asturian",
     "native": "asturianu",
     "scenario": [
-      "casu"
+      "Casu"
     ],
-    "scenariooutline": [
-      "esbozu del casu"
+    "scenarioOutline": [
+      "Esbozu del casu"
     ],
     "then": [
       "* ",
-      "entós "
+      "Entós "
     ],
     "when": [
       "* ",
-      "cuando "
+      "Cuando "
     ]
   }
 }
